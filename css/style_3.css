@@ -1,0 +1,181 @@
+
+body {
+  background: url("../assets/debut_light.png");
+  font-family: 'Covered By Your Grace', cursive;
+  margin: 2em;
+  height: 35em;
+}
+
+#head {
+	height: 2.5em;
+	border-bottom: solid;
+}
+
+#foot {
+	height: 2.5em;
+	border-top: solid;
+}
+
+.row {
+	border: solid;
+	height: 5em;
+	border-width: 0px;  /****** */
+}
+
+.column {
+	border: solid;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	border-width: 0px; /****** */
+	width: 9%;
+	height: 5em;
+	vertical-align: top;
+}
+
+.text_bottom {
+	text-align: center;
+	padding-top: 4em;
+}
+
+.text_bottom_bottom {
+	text-align: center;
+	padding-top: 10%;
+}
+
+.text_bottom_bottom_left {
+	text-align: left;
+	padding-top: 10.5%;
+}
+
+.text_bottom_left {
+	text-align: left;
+	padding-top: 6%;
+}
+
+.text_top {
+	text-align: center;
+	padding-top: 1em;
+}
+
+.text_top_right {
+	text-align: right;
+	padding-top: 2em;
+}
+
+#top {
+	margin-top: 3em;
+}
+
+#btm {
+	margin-bottom: 2em;
+}
+
+#photo_1 {
+	width: 200%;
+}
+
+#photo_2 {
+	padding-top: 2em;
+	width: 160%;
+}
+
+#photo_4 {
+	width: 120%;
+}
+
+#photo_3 {
+	width: 120%;
+}
+
+#photo_11 {
+	width: 200%;
+}
+
+#photo_5 {
+	margin-left: 1em;
+	padding-top: 2em;
+	width: 160%;
+}
+
+#photo_7 {
+	width: 120%;
+}
+
+#photo_8 {
+	width: 170%;
+	padding-top: 1em;
+}
+
+#photo_6 {
+	width: 170%;
+	padding-top: 2em;
+}
+
+#photo_3 {
+	width: 110%;
+	margin-left: -3.5em;
+}
+
+#photo_13 {
+	width: 170%;
+	margin-top: 1.8em;
+}
+
+#photo_12 {
+	width: 110%;
+	margin-top: 0.6em;
+}
+
+#photo_9 {
+	width: 180%;
+	margin-left: 3em;
+	margin-top: 0.9em;
+}
+
+#photo_14 {
+	width: 200%;
+	margin-left: 2.5em;
+	margin-top: 0.4em;
+}
+
+#foot {
+	text-align: right;
+	margin-top: 0.2em;
+}
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#head > a:hover {
+	text-decoration: none;
+}
+
+p {
+	position: relative;
+    z-index: 100;
+}
+
+.out_pages {
+	margin: 3em 5em 0em 5em;
+}
+
+.field {
+	text-decoration: underline;
+}
+
+.email {
+	display: inline;
+}
+
+#normal_text {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 0.9em;
+}
+
