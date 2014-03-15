@@ -164,18 +164,10 @@ p {
 
 .out_pages {
 	margin: 3em 5em 0em 5em;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 .field {
 	text-decoration: underline;
-}
-
-.email {
-	display: inline;
-}
-
-#normal_text {
-	font-family: "Courier New", Courier, monospace;
-	font-size: 0.9em;
 }
 
