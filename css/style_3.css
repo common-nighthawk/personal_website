@@ -171,3 +171,11 @@ p {
 	text-decoration: underline;
 }
 
+ul {
+    padding: 0 1em 0 1em;
+}
+
+.no_bullet {
+	list-style-type: none;
+}
+
